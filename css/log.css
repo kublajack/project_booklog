@@ -1,0 +1,64 @@
+body {
+    font-family: 'Noticia Text', serif;
+    color: #494949;
+}
+
+.container {
+    float: right;
+    width: 600px;
+    height: 600px;
+    margin-top:200px;
+    margin-right:200px;
+}
+
+.lbox {
+    width:425px;
+    height:600px;
+    float:left;
+    text-align: center;
+    line-height: 55px;
+}
+
+.rbox {
+    width:175px;
+    height:600px;
+    float:right;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+input {
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 7px;
+}
+
+.button {
+    display: block;
+    height: 40px;
+    width: 90px;
+    background: #fff;
+    border: 1px solid;
+    border-radius: 6px;
+    float: right;
+    text-align: center;
+    font: 1em 'Noticia Text', serif;
+}
+
+a.button {
+    text-decoration: none;
+}
+
+.logbox {
+    width:  275px;
+    height: 250px;
+    float: left;
+    margin-left: 65px;
+}
+
+.logform {
+    float: right;
+    clear:both;
+}

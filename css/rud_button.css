@@ -1,0 +1,21 @@
+.rud {
+    background-color: #fff;
+    color: #494949;
+    height: 25px;
+    width: 65px;
+    border: 1px solid;
+    border-radius: 6px;
+    text-align: center;
+    padding-top: 5px;
+    font: 1em 'Noticia Text', serif;
+    margin-left: 10px;
+
+}
+
+a.rud {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
